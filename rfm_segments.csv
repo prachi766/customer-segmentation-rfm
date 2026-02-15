@@ -1,0 +1,11 @@
+CustomerID,Recency,Frequency,Monetary,R_score,F_score,M_score,RFM_Score,Segment
+1,38,2,250,1,3,2,132,At Risk
+2,18,2,250,2,3,2,232,Loyal
+3,4,1,300,3,1,3,313,Loyal
+4,59,1,120,1,1,1,111,At Risk
+5,14,2,140,2,3,2,232,Loyal
+6,69,1,500,1,1,3,113,At Risk
+7,1,1,40,3,2,1,321,Loyal
+8,34,1,220,1,2,2,122,At Risk
+9,17,1,90,2,2,1,221,Loyal
+10,7,2,300,3,3,3,333,Champions

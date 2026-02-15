@@ -1,0 +1,15 @@
+
+Champions:
+- Offer loyalty rewards and exclusive discounts.
+- Encourage referrals and premium memberships.
+- Provide early access to new products.
+
+Loyal Customers:
+- Send personalized offers to increase purchase frequency.
+- Promote bundle deals and cross-selling.
+- Maintain engagement through regular communication.
+
+At Risk Customers:
+- Send re-engagement emails with special discounts.
+- Offer limited-time promotions to win them back.
+- Collect feedback to understand churn reasons.
